@@ -1,1 +1,1 @@
-# Amazon_FakeReviewIdentification_ApplicationRecommenderSystem
+# Amazon Fake Review Identification & Application in Recommender System
